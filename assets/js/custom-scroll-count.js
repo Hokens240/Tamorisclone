@@ -1,15 +1,3 @@
-/*==========
-
-Template Name: Misaru - Finance Consulting HTML Template
-
-==========*/
-
-/*==========
------ JS INDEX -----
-1.Whole Script Strict Mode Syntax
-2.About Us Counting JS
-==========*/
-
 
 
 $(document).ready(function($) {
