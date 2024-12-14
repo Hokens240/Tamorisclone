@@ -164,7 +164,7 @@ p {
     font-size: 15px;
     line-height: 24px;
     color: #fff !important;
-    background-color: #e70e0e;
+    background-color: #B74F0D;
     border-radius: 10px;
     padding: 18px 32px;
     font-weight: 500;
@@ -207,7 +207,7 @@ p {
 .link-btn {
     font-family: 'Roboto', sans-serif;
     font-size: 15px;
-    color: #e70e0e;
+    color: #B74F0D;
     text-transform: uppercase;
     text-decoration: underline;
     font-weight: 500;
@@ -218,7 +218,7 @@ p {
 
 .link-btn:hover {
     text-decoration: underline;
-    color: #e70e0e;
+    color: #B74F0D;
     transition: 0.3s;
     cursor: pointer;
 }
@@ -287,7 +287,7 @@ p {
 }
 
 .slick-arrow.next-arrow.color-arrow:hover {
-    background-color: #e70e0e;
+    background-color: #B74F0D;
     transition: all ease-in-out 0.3s;
 }
 
@@ -299,7 +299,7 @@ p {
 }
 
 .slick-arrow.prev-arrow.color-arrow:hover {
-    background-color: #e70e0e;
+    background-color: #B74F0D;
     transition: all ease-in-out 0.3s;
 }
 
@@ -364,7 +364,7 @@ textarea.form-input {
     right: 0;
     width: 70px;
     height: 70px;
-    background-color: #e70e0e;
+    background-color: #B74F0D;
     text-align: center;
     border: none;
     outline: none;
@@ -389,7 +389,7 @@ textarea.form-input {
 }
 
 .toggle-menu .toggle-button {
-    background-color: #e70e0e;
+    background-color: #B74F0D;
 }
 
 .toggle-menu .toggle-button span {
@@ -473,7 +473,7 @@ textarea.form-input {
 
 .breadcrumb-box {
     display: inline-block;
-    background-color: #e70e0e;
+    background-color: #B74F0D;
     padding: 10px 30px;
     border-radius: 8px;
     margin-top: 15px;
@@ -541,7 +541,7 @@ textarea.form-input {
   }
 
   .infinity-loader > .fg > div > div {
-    border-color:#e70e0e transparent transparent;
+    border-color:#B74F0D transparent transparent;
     transform: rotate(135deg);
     animation: spin 1s linear infinite;
     position: static;
@@ -623,7 +623,7 @@ textarea.form-input {
 }
 
 .header-contact a:hover {
-    color: #e70e0e;
+    color: #B74F0D;
 }
 
 .header-contact a span {
@@ -668,7 +668,7 @@ textarea.form-input {
 }
 
 .Social-midea a:hover {
-    color: #e70e0e;
+    color: #B74F0D;
 
 }
 
@@ -722,7 +722,7 @@ textarea.form-input {
 }
 
 .main-navigation ul li a:hover {
-    color: #e70e0e;
+    color: #B74F0D;
 }
 
 .header-btn {
@@ -734,7 +734,7 @@ textarea.form-input {
 }
 
 .main-navigation ul li.sub-items:hover>a, .main-navigation ul li a:hover, .main-navigation ul li.active>a {
-    color: #e70e0e;
+    color: #B74F0D;
 }
 
 .main-navigation ul li.sub-items>a:before {
@@ -825,12 +825,12 @@ textarea.form-input {
 }
 
 .main-navigation ul li ul.sub-menu li a:hover {
-    color: #e70e0e;
+    color: #B74F0D;
     transition: 0.3s;
 }
 
 .site-header.sticky-header .main-navigation ul li.sub-items:hover>a, .site-header.sticky-header .main-navigation ul li a:hover, .site-header.sticky-header .main-navigation ul li.active>a, .site-header.sticky-header .main-navigation ul li.sub-items:hover>a:before, .site-header.sticky-header .main-navigation ul li a:hover:before, .site-header.sticky-header .main-navigation ul li.active>a:before, .site-header.sticky-header .main-navigation ul li ul.sub-menu li a:hover {
-    color: #e70e0e;
+    color: #B74F0D;
 }
 
 /*==Sticky Header Start==*/
@@ -856,7 +856,7 @@ textarea.form-input {
 }
 
 .sticky-header .main-navigation ul li a:hover {
-    color: #e70e0e;
+    color: #B74F0D;
 }
 
 .site-header.sticky-header .site-branding a img {
@@ -1023,7 +1023,7 @@ textarea.form-input {
 }
 
 .main-service-box:hover {
-    border: solid 1px #e70e0e;
+    border: solid 1px #B74F0D;
     box-shadow: 10px 26px 59px 0px rgba(0,0,0,0.51);
     transition: ease-in-out 0.3s;
 }
@@ -1035,7 +1035,7 @@ textarea.form-input {
     display: flex;
     align-items: center;
     justify-content: center;
-    border: solid 2px #e70e0e;
+    border: solid 2px #B74F0D;
 }
 
 .main-services h3 {
@@ -1051,7 +1051,7 @@ textarea.form-input {
 .main-service-box a {
     padding: 15px 21px;
     border-radius: 50px;
-    background-color: #e70e0e;
+    background-color: #B74F0D;
     text-align: center;
     color: #fff;
 }
@@ -1184,7 +1184,7 @@ textarea.form-input {
     position: absolute;
     width: 80px;
     height: 80px;
-    background-color: #e70e0e;
+    background-color: #B74F0D;
     border-radius: 0px 80px 0px 0px;
     left: 0;
     bottom: 0;
@@ -1195,7 +1195,7 @@ textarea.form-input {
     position: absolute;
     width: 80px;
     height: 80px;
-    background-color: #e70e0e;
+    background-color: #B74F0D;
     border-radius: 0px 0px 0px 80px;
     right: 0;
     top: 0;
@@ -1298,7 +1298,7 @@ textarea.form-input {
     left: 0;
     bottom: 0;
     right: 0;
-    background-color: #e70e0e;
+    background-color: #B74F0D;
     z-index: -1;
     transform: translateY(100%);
     transition: all 0.3s ease;
@@ -1393,7 +1393,7 @@ textarea.form-input {
     transform: translate(-50%,-50%);
     width: 80px;
     height: 80px;
-    background-color: #e70e0e;
+    background-color: #B74F0D;
     background-size: 200% 100%;
     background-position: left center;
     border-radius: 50%;
@@ -1469,7 +1469,7 @@ textarea.form-input {
 
 .why-tabs {
     width: 100%;
-    border-bottom: solid 2px #e70e0e;
+    border-bottom: solid 2px #B74F0D;
     display: flex;
 }
 
@@ -1479,7 +1479,7 @@ textarea.form-input {
 
 .why-tabs .nav-item .nav-link.active {
     color: #fff;
-    background: #e70e0e;
+    background: #B74F0D;
 }
 
 .why-tabs .nav-item .nav-link {
@@ -1593,7 +1593,7 @@ textarea.form-input {
 .main-testimonial-box span {
     font-family: 'Roboto', sans-serif;
     font-size: 15px;
-    color: #e70e0e;
+    color: #B74F0D;
     text-transform: uppercase;
 }
 
@@ -1701,7 +1701,7 @@ textarea.form-input {
     right: 0;
     width: 75px;
     height: 100%;
-    background: #e70e0e;
+    background: #B74F0D;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -1766,7 +1766,7 @@ textarea.form-input {
 .team-content span {
     font-family: 'Roboto', sans-serif;
     font-size: 15px;
-    color: #e70e0e;
+    color: #B74F0D;
 }
 
 .main-team-social {
@@ -1802,7 +1802,7 @@ textarea.form-input {
 }
 
 .team-social i:hover {
-    color: #e70e0e;
+    color: #B74F0D;
     transition: all 0.4s ease;
 }
 
@@ -1827,7 +1827,7 @@ textarea.form-input {
 /*==========Newsletter Start==========*/
 .main-newsletter {
     position: relative;
-    background-color: #e70e0e;
+    background-color: #B74F0D;
     padding-top: 80px;
     padding-bottom: 80px;
 }
@@ -1941,7 +1941,7 @@ textarea.form-input {
     display: inline-block;
     padding: 15px 20px;
     height: 54px;
-    background-color: #e70e0e;
+    background-color: #B74F0D;
     background-size: 200% 100%;
     background-position: left center;
     color: #ffffff;
@@ -2021,7 +2021,7 @@ textarea.form-input {
     position: absolute;
     width: 70px;
     height: 1px;
-    background-color: #e70e0e;
+    background-color: #B74F0D;
     bottom: 0;
     left: 0;
 }
@@ -2031,7 +2031,7 @@ textarea.form-input {
     position: absolute;
     width: 70px;
     height: 1px;
-    background-color: #e70e0e;
+    background-color: #B74F0D;
     bottom: -5px;
     left: 10px;
 }
@@ -2051,7 +2051,7 @@ textarea.form-input {
 }
 
 .links-text ul li a:hover {
-    color: #e70e0e;
+    color: #B74F0D;
     padding-left: 10px;
     transition: 0.3s;
 }
@@ -2074,7 +2074,7 @@ textarea.form-input {
     position: absolute;
     width: 70px;
     height: 1px;
-    background-color: #e70e0e;
+    background-color: #B74F0D;
     bottom: 0;
     left: 0;
 }
@@ -2084,7 +2084,7 @@ textarea.form-input {
     position: absolute;
     width: 70px;
     height: 1px;
-    background-color: #e70e0e;
+    background-color: #B74F0D;
     bottom: -5px;
     left: 10px;
 }
@@ -2096,7 +2096,7 @@ textarea.form-input {
 .contact-icon {
     width: 40px;
     height: 40px;
-    background-color: #e70e0e;
+    background-color: #B74F0D;
     border-radius: 8px;
     display: flex;
     align-items: center;
@@ -2124,7 +2124,7 @@ textarea.form-input {
     position: absolute;
     width: 70px;
     height: 1px;
-    background-color: #e70e0e;
+    background-color: #B74F0D;
     bottom: 0;
     left: 0;
 }
@@ -2134,7 +2134,7 @@ textarea.form-input {
     position: absolute;
     width: 70px;
     height: 1px;
-    background-color: #e70e0e;
+    background-color: #B74F0D;
     bottom: -5px;
     left: 10px;
 }
@@ -2171,7 +2171,7 @@ textarea.form-input {
 
 .latest-post-text span {
     font-family: 'Roboto', sans-serif;
-    color: #e70e0e;
+    color: #B74F0D;
     font-size: 15px;
 }
 
@@ -2195,7 +2195,7 @@ textarea.form-input {
 }
 
 .copyright-content p a {
-    color: #e70e0e;
+    color: #B74F0D;
     cursor: pointer;
 }
 
@@ -2217,7 +2217,7 @@ textarea.form-input {
 }
 
 .social-media-footer a:hover {
-    background-color: #e70e0e;
+    background-color: #B74F0D;
 }
 /*==========Footer End==========*/
 
@@ -2289,7 +2289,7 @@ textarea.form-input {
     border-radius: 210px;
     padding-top: 8px;
     height: 60px;
-    background-color: #e70e0e;
+    background-color: #B74F0D;
     transition: 0.3s;
 }
 
@@ -2449,7 +2449,7 @@ textarea.form-input {
     position: absolute;
     width: 70px;
     height: 1px;
-    background-color: #e70e0e;
+    background-color: #B74F0D;
     bottom: 0;
     left: 0;
 }
@@ -2459,7 +2459,7 @@ textarea.form-input {
     position: absolute;
     width: 70px;
     height: 1px;
-    background-color: #e70e0e;
+    background-color: #B74F0D;
     bottom: -5px;
     left: 10px;
 }
@@ -2478,14 +2478,14 @@ textarea.form-input {
 }
 
 .service-list-box.active {
-    background-color: #e70e0e;
-    border: solid 2px #e70e0e;
+    background-color: #B74F0D;
+    border: solid 2px #B74F0D;
     box-shadow: 10px 10px 60px 0px rgba(231,14,14,0.3);
 }
 
 .service-list-box:hover {
-    background-color: #e70e0e;
-    border: solid 2px #e70e0e;
+    background-color: #B74F0D;
+    border: solid 2px #B74F0D;
     box-shadow: 10px 10px 60px 0px rgba(231,14,14,0.3);
     transition: 0.3s;
 }
@@ -2540,7 +2540,7 @@ textarea.form-input {
     position: absolute;
     width: 30px;
     height: 6px;
-    background-color: #e70e0e;
+    background-color: #B74F0D;
     border-radius: 10px;
     left: 50%;
     bottom: 0;
@@ -2549,7 +2549,7 @@ textarea.form-input {
 
 .service-detail-contact a {
     font-family: 'Poppins', sans-serif;
-    color: #e70e0e;
+    color: #B74F0D;
     font-size: 25px;
     font-weight: 700;
     transition: 0.3s;
@@ -2652,7 +2652,7 @@ textarea.form-input {
 
 .pricing-box h2 {
     font-size: 45px;
-    color: #e70e0e;
+    color: #B74F0D;
     font-weight: 700;
     padding-bottom: 0;
     line-height: 55px;
@@ -2708,7 +2708,7 @@ textarea.form-input {
 }
 
 .pricing-box:hover {
-    background-color: #e70e0e;
+    background-color: #B74F0D;
     box-shadow: 10px 10px 60px 0px rgba(231,14,14,0.3);
     transition: 0.3s;
 }
@@ -2797,7 +2797,7 @@ textarea.form-input {
 }
 
 .slick-arrow.next-arrow.color-arrow-blog:hover {
-    background-color: #e70e0e;
+    background-color: #B74F0D;
     transition: all ease-in-out 0.3s;
 }
 
@@ -2809,7 +2809,7 @@ textarea.form-input {
 }
 
 .slick-arrow.prev-arrow.color-arrow-blog:hover {
-    background-color: #e70e0e;
+    background-color: #B74F0D;
     transition: all ease-in-out 0.3s;
 }
 
@@ -2833,7 +2833,7 @@ textarea.form-input {
 }
 
 .pagination-arrow {
-    color: #e70e0e;
+    color: #B74F0D;
     font-size: 35px;
     display: inline-block;
     margin: 0 18px;
@@ -2872,14 +2872,14 @@ textarea.form-input {
 }
 
 .blog-pagination ul li:hover {
-    background-color: #e70e0e;
+    background-color: #B74F0D;
     color: #ffffff;
     transition: 0.3s;
 }
 
 .blog-pagination ul li.active,
 .blog-pagination ul li.active:hover {
-    background: #e70e0e;
+    background: #B74F0D;
     color: #ffffff;
     cursor: default;
 }
@@ -2928,7 +2928,7 @@ textarea.form-input {
     box-shadow: 10px 10px 38px 0px rgba(0,0,0,0.11);
     padding: 30px;
     text-align: left;
-    border-top: 5px solid #e70e0e;
+    border-top: 5px solid #B74F0D;
     margin-top: 50px;
 }
 
@@ -2954,7 +2954,7 @@ textarea.form-input {
     position: absolute;
     width: 98px;
     height: 1px;
-    background-color: #e70e0e;
+    background-color: #B74F0D;
     bottom: 0;
     left: 0;
 }
@@ -2986,7 +2986,7 @@ textarea.form-input {
 }
 .category-box ul li a i {
     font-size: 18px;
-    color: #e70e0e;
+    color: #B74F0D;
     margin-right:  10px;
 }
 
@@ -2995,7 +2995,7 @@ textarea.form-input {
     box-shadow: 10px 10px 38px 0px rgba(0,0,0,0.11);
     padding: 30px;
     text-align: left;
-    border-top: 5px solid #e70e0e;
+    border-top: 5px solid #B74F0D;
     margin-top: 50px;
 }
 
@@ -3021,7 +3021,7 @@ textarea.form-input {
     position: absolute;
     width: 98px;
     height: 1px;
-    background-color: #e70e0e;
+    background-color: #B74F0D;
     bottom: 0;
     left: 0;
 }
@@ -3070,7 +3070,7 @@ textarea.form-input {
 .recent-post-text span {
     font-family: 'Roboto', sans-serif;
     font-size: 15px;
-    color: #e70e0e;
+    color: #B74F0D;
 }
 
 .tag-box {
@@ -3078,7 +3078,7 @@ textarea.form-input {
     box-shadow: 10px 10px 38px 0px rgba(0,0,0,0.11);
     padding: 30px;
     text-align: left;
-    border-top: 5px solid #e70e0e;
+    border-top: 5px solid #B74F0D;
     margin-top: 50px;
 }
 
@@ -3104,7 +3104,7 @@ textarea.form-input {
     position: absolute;
     width: 98px;
     height: 1px;
-    background-color: #e70e0e;
+    background-color: #B74F0D;
     bottom: 0;
     left: 0;
 }
@@ -3139,8 +3139,8 @@ textarea.form-input {
 }
 
 .tag-list-box ul li a:hover {
-    border: solid 1px #e70e0e;
-    background-color: #e70e0e;
+    border: solid 1px #B74F0D;
+    background-color: #B74F0D;
     color: #ffffff;
     box-shadow: 0 10px 30px 0 rgb(231,14,14,0.3);
 }
@@ -3206,7 +3206,7 @@ textarea.form-input {
 }
 
 .blog-social-media a i:hover {
-    color: #e70e0e;
+    color: #B74F0D;
     transition: 0.3s;
 }
 
@@ -3231,7 +3231,7 @@ textarea.form-input {
 
 .blog-quote-box {
     background-color: #f3f4f8;
-    border-left: solid 1px #e70e0e;
+    border-left: solid 1px #B74F0D;
     padding: 30px;
     margin-bottom: 20px;
     display: flex;
@@ -3363,7 +3363,7 @@ textarea.form-input {
     font-weight: 500;
     text-transform: uppercase;
     padding: 8px 18px;
-    background-color: #e70e0e;
+    background-color: #B74F0D;
     border-radius: 8px;
     color: #ffffff;
     transition: 0.3s;
@@ -3436,7 +3436,7 @@ textarea.form-input {
 }
 
 .contact-help-box:hover {
-    border: solid 1px #e70e0e;
+    border: solid 1px #B74F0D;
     background-color: #0d1128;
     box-shadow: 10px 26px 59px 0px rgba(0,0,0,0.51);
     transition: 0.3s;
@@ -3445,7 +3445,7 @@ textarea.form-input {
 .contact-help-icon {
     width: 80px;
     height: 80px;
-    background-color: #e70e0e;
+    background-color: #B74F0D;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -3501,7 +3501,7 @@ textarea.form-input {
     right: 10px;
     width: 50px;
     height: 50px;
-    background-color: #e70e0e;
+    background-color: #B74F0D;
     font-size: 25px;
     color: #ffffff;
     border-radius: 4px;
@@ -3524,7 +3524,7 @@ textarea.form-input {
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: #e70e0e;
+    background-color: #B74F0D;
     transition: 0.3s;
     z-index: 0;
 }
@@ -3867,7 +3867,7 @@ textarea.form-input {
     }
 
     .main-navigation ul li.sub-items.active>a:before {
-        color: #e70e0e;
+        color: #B74F0D;
     }
 
     .main-navigation ul li ul.sub-menu,
@@ -3912,12 +3912,12 @@ textarea.form-input {
     .main-navigation ul li.sub-items:hover>a:before,
     .main-navigation ul li a:hover:before {
         transform: translate(0,-50%) rotate(0deg);
-        color: #e70e0e;
+        color: #B74F0D;
     }
 
     .main-navigation ul li.sub-items.active-sub-menu>a:before {
         transform: translate(0,-50%) rotate(-180deg);
-        color: #e70e0e;
+        color: #B74F0D;
     }
 
     .Social-midea {
